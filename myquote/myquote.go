@@ -1,4 +1,4 @@
-package pakke
+package myquote
 
 import "rsc.io/quote"
 
